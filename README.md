@@ -11,6 +11,8 @@ last few years, I still enjoys developing early-stage prototypes and products.</
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![Django](https://img.shields.io/badge/-Django-005571?style=flat-square&logo=django)
+![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-E10098?style=flat-square&logo=rubyonrails)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-black?style=flat-square&logo=tailwindcss)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
